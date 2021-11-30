@@ -4,7 +4,7 @@ at the University of Rhode Island, advised by Dr. Hollie Putnam. Broadly, I am i
 isotope analysis to understand coral nutritional flexibility under multiple
 bleaching scenarios in the field (beautiful Mo'orea, French Polynesia). 
 I hope to couple SIA with metabolomics and proteomics to
-test hypotheses related to the availbility of epigenetic modifiers and 
+test hypotheses related to the availability of epigenetic modifiers and 
 cofactors and connect them to resulting epigenetic marks. In particular
 I'm also interested in the relationship and interplay of long noncoding RNAs and gene body
 methylation.   

@@ -6,13 +6,13 @@ bleaching scenarios in the field (beautiful Mo'orea, French Polynesia).
 I hope to couple SIA with metabolomics and proteomics to
 test hypotheses related to the availbility of epigenetic modifiers and 
 cofactors and connect them to resulting epigenetic marks. In particular
-I'm also interested in the relationship and interplay of long noncoding RNAs, gene body
+I'm also interested in the relationship and interplay of long noncoding RNAs and gene body
 methylation.   
 ---
 ### Education
 B.S. Integrative Biology from UC Berkeley (2021)
 [Short-term elevations in glucocorticoids do not alter telomere lengths: A systematic review and meta-analysis of non-primate vertebrate studies](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257370)
-#<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 ### Research Experience
@@ -34,7 +34,7 @@ Collective
 ### Recent Projects
 
 - [Express Compare](https://github.com/laurenzane/Express_Compare)
-- [Honors Thesis](http://bloose.github.io/pdf/sample_presentation.pdf)
+- [Honors Thesis](https://github.com/laurenzane/VM_lab_metaanalysis)
 
 ---
 

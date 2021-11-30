@@ -31,6 +31,9 @@ B.S. Integrative Biology from UC Berkeley (2021)
 Collective
 - Jan. 2018-May 2021 Youth Educator, Bay Area Science in Schools 
 - June 2018-Aug. 2018 Informal Education Intern, Birch Aquarium at Scripps
+
+---
+
 ### Recent Projects
 
 - [Express Compare](https://github.com/laurenzane/Express_Compare)

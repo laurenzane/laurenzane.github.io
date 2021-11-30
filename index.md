@@ -16,7 +16,7 @@ B.S. Integrative Biology from UC Berkeley (2021)
 
 ---
 ### Research Experience
-- Jan. 2020-May 2021 Undergraduate Research Apprentice (Vasquez-Medina Lab), UC Berkele
+- Jan. 2020-May 2021 Undergraduate Research Apprentice (Vasquez-Medina Lab), UC Berkeley
 - May 2020-August 2020 NOAA Hollings Scholar Fellow, Southwest Fisheries Science Center
 - June 2019-August 2019 NSF REU Fellow, Duke University Marine Lab
 - Sept. 2017-May 2019 Undergraduate Research Apprentice (Patel Lab), UC Berkeley
